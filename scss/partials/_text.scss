@@ -1,0 +1,30 @@
+.thin {
+  font-weight: 200 !important;
+}
+
+.light {
+  font-weight: 300 !important;
+}
+
+.strong {
+  font-weight: 500 !important;
+}
+
+.left-text {
+  text-align: left !important;
+}
+
+.center-text {
+  text-align: center !important;
+}
+
+.right-text {
+  text-align: right !important;
+}
+
+.truncate {
+  display: block;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
