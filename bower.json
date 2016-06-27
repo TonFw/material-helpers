@@ -1,0 +1,22 @@
+{
+  "name": "material-helpers",
+  "homepage": "https://github.com/TonFw/material-helpers",
+  "authors": [
+    "Ilton Silveira <ton.garcia.jr@gmail.com>"
+  ],
+  "description": "Material Helpers for general propose, it main is the Ionic",
+  "main": "css/material-helpers.min.css",
+  "keywords": [
+    "material",
+    "helpers",
+    "ionic"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
