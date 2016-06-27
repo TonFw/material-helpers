@@ -5,7 +5,7 @@
     "Ilton Silveira <ton.garcia.jr@gmail.com>"
   ],
   "description": "Material Helpers for general propose, it main is the Ionic",
-  "main": "css/material-helpers.min.css",
+  "main": "scss/material-helpers.scss",
   "keywords": [
     "material",
     "helpers",
